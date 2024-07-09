@@ -13,7 +13,7 @@ import java.io.Serializable;
 /**
  * 查询请求
  *
- * @author yupi
+ * @author PCu
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

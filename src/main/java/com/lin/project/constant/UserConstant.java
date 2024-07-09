@@ -3,7 +3,7 @@ package com.lin.project.constant;
 /**
  * 用户常量
  *
- * @author yupi
+ * @author PCu
  */
 public interface UserConstant {
 

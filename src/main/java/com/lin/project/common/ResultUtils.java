@@ -3,7 +3,7 @@ package com.lin.project.common;
 /**
  * 返回工具类
  *
- * @author yupi
+ * @author PCu
  */
 public class ResultUtils {
 
